@@ -23,7 +23,7 @@ After the MN is up and running, you need to configure the desktop wallet accordi
 4. Wait for 15 confirmations.  
 5. Go to **Tools -> "Debug console - Console"**
 6. Type the following command: **masternode outputs**
-7. Go to  ** Tools -> "Open Masternode Configuration File"
+7. Go to  ** Tools -> "Open Masternode Configuration File"**
 8. Add the following entry:
 ```
 Alias Address Privkey TxHash Output_index
