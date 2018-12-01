@@ -9,7 +9,7 @@ COIN_PATH='/usr/local/bin/'
 COIN_TGZ='https://github.com/Frostbytecoin/FSTX-Core/releases/download/v1.0/Frostbyte-v1.0-Daemon.zip'
 COIN_ZIP=$(echo $COIN_TGZ | awk -F'/' '{print $NF}')
 COIN_NAME='Frostbyte'
-COIN_EXPLORER=''
+COIN_EXPLORER='https://chain.frostbytecoin.io'
 COIN_PORT=22211
 RPC_PORT=33311
 
